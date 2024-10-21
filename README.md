@@ -1,3 +1,8 @@
+    Funcionalidad entregada:
+      Autenticación de usuario, Gestión de tareas e Interfaz de usuario (Funcionalidad parcial)
+      Base de datos (completo)
+
+    
   Para correr el proyecto, una vez descargado se deben realizar los siguientes pasos:
 
     BACKEND:
